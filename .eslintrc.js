@@ -1,5 +1,8 @@
 module.exports = {
   env: { browser: true, node: true },
+  globals: {
+    BigInt: true,
+  },
   root: true,
   parser: "@typescript-eslint/parser",
   plugins: [

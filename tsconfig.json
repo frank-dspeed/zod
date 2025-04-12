@@ -1,6 +1,6 @@
 {
   "extends": "./configs/tsconfig.esm.json",
   "compilerOptions": {
-    "outDir": "../lib"
+    "outDir": "./lib"
   }
 }

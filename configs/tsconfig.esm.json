@@ -3,6 +3,8 @@
   "compilerOptions": {
     "module": "esnext",
     "target": "esnext",
+    "declaration": true,
+    "declarationDir": "../lib",
     "declarationMap": false,
     "sourceMap": false
   },
